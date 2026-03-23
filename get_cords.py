@@ -12,4 +12,4 @@ def get_cords():
     return states
 
 
-get_cords()
+
